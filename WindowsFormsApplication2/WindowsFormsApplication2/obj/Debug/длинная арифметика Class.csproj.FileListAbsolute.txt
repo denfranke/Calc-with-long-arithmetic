@@ -1,0 +1,67 @@
+C:\Users\Капралов Матвей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Капралов Матвей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Капралов Матвей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Капралов Матвей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Капралов Матвей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Капралов Матвей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csprojResolveAssemblyReference.cache
+C:\Users\Капралов Матвей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.сравнение.resources
+C:\Users\Капралов Матвей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Капралов Матвей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.сравнение.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.GenerateResource.Cache
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.сравнение.resources
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Denis\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csprojAssemblyReference.cache
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.сравнение.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.GenerateResource.cache
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csprojResolveAssemblyReference.cache
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.сравнение.resources
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.GenerateResource.Cache
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.AssemblyReference.cache
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.сравнение.resources
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.GenerateResource.cache
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.CoreCompileInputs.cache
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Liza\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.AssemblyReference.cache
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.сравнение.resources
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.GenerateResource.cache
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\длинная арифметика Class.csproj.CoreCompileInputs.cache
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Desktop\Хлам\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
